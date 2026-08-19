@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "bcryptjs": "2.4.3",
+    "core": "2.8.5",
     "dotenv": "^17.4.2",
     "express": "^4.21.2",
     "lucide-react": "^0.468.0",
